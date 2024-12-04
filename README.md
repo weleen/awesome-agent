@@ -44,6 +44,12 @@ This repo collects papers and repositories about agent. Especially, we focus on 
 - [Gemma: Open models based on gemini research and technology](https://arxiv.org/abs/2403.08295), ArXiv, 2024.3, Google | [project](https://blog.google/technology/developers/gemma-open-models/)
 - [Minicpm: Unveiling the potential of small language models with scalable training strategies](https://arxiv.org/pdf/2404.06395), CoLM, 2024, OpenBMB. | [blog](https://openbmb.vercel.app/?category=Blog), [code](https://github.com/OpenBMB/MiniCPM)
  </details>
+ 
+
+<details><summary>2023</summary>
+
+- [ReAct: Synergizing Reasoning and Acting in Language Models](https://openreview.net/pdf?id=WE_vluYUL-X), ICLR, 2023, Princeton & Google | [project](https://react-lm.github.io/), [code](https://github.com/ysymyth/ReAct)
+</details>
 
 ### Robotics
 
@@ -100,6 +106,8 @@ This repo collects papers and repositories about agent. Especially, we focus on 
 
 <details><summary>2024</summary>
 
+- [SMoA: Improving Multi-agent Large Language Models with Sparse Mixture-of-Agents](https://github.com/David-Li0406/SMoA), ASU & MSU & KAUST & UT Austin. | [code](https://github.com/David-Li0406/SMoA)
+- [Mixture-of-Agents Enhances Large Language Model Capabilities](https://arxiv.org/pdf/2406.04692), ArXiv, 2024. 6, Together AI. | [code](https://github.com/togethercomputer/moa)
 - [AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors](https://openreview.net/pdf?id=EHg5GDnyq1), ICLR, 2024. THU & BUPT & Tecent | [code](https://github.com/OpenBMB/AgentVerse)
 - [Metagpt: Meta programming for multi-agent collaborative framework](https://openreview.net/forum?id=VtmBAGCN7o), ICLR, 2024. DeepWisdom & KAUST & XMU & CUHKSZ & NJU & UoPenn & UCB | [code](https://github.com/geekan/MetaGPT)
 - [ChatDev: Communicative Agents for Software Development](https://aclanthology.org/2024.acl-long.810), ACL, 2024. THU & BUPT & DUT etc. | [code](https://github.com/OpenBMB/ChatDev)
@@ -112,6 +120,7 @@ This repo collects papers and repositories about agent. Especially, we focus on 
 <details><summary>2023</summary>
 
 - [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation](https://arxiv.org/pdf/2308.08155), ArXiv, 2023. MS & PSU & UoW | [code](https://github.com/microsoft/autogen)
+- [CAMEL: Communicative Agents for “Mind” Exploration of Large Language Model Society](https://proceedings.neurips.cc/paper_files/paper/2023/file/a3621ee907def47c1b952ade25c67698-Paper-Conference.pdf), NeurIPS, 2023, KAUST. | [project](https://www.camel-ai.org/), [code](https://github.com/camel-ai/camel)
 </details>
 
 <details><summary>2022</summary>
@@ -184,3 +193,7 @@ This repo collects papers and repositories about agent. Especially, we focus on 
 - [AgentGPT](https://github.com/reworkd/AgentGPT)
 - [MetaGPT](https://github.com/geekan/MetaGPT)
 - [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter)
+- [AgentVerse](https://github.com/OpenBMB/AgentVerse)
+- [Crew AI](https://github.com/crewAIInc/crewAI)
+- [LangGraph](https://github. com/langchain-ai/langgraph)
+- [CAMEL](https://github.com/camel-ai/camel)
