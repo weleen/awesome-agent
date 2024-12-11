@@ -12,9 +12,16 @@ This repo collects papers and repositories about agent. Especially, we focus on 
 [Paper Title](paper link), Conference/Journal, Year, Team | [code](code link), [project](project link)
 ```
 
+## TODO
+
+- [ ] Update CoRL2024 papers.
+- [ ] Update IROS2024 papers.
+- [ ] Update ICRA2024 papers.
+
 ## Table of Contents
 
 - [Awesome Agent](#awesome-agent)
+  - [TODO](#todo)
   - [Table of Contents](#table-of-contents)
     - [Foundation Model (LLM, VLM, etc.)](#foundation-model-llm-vlm-etc)
     - [Robotics](#robotics)
@@ -45,6 +52,7 @@ This repo collects papers and repositories about agent. Especially, we focus on 
 - [O1 Journey: O1 Replication Journey – Part 2: Surpassing O1-preview through Simple Distillation Big Progress or Bitter Lesson?](https://arxiv.org/abs/2411.16489), ArXiv, 2024.11, GAIR SJTU | [code](https://github.com/GAIR-NLP/O1-Journey)
 - [Gemma: Open models based on gemini research and technology](https://arxiv.org/abs/2403.08295), ArXiv, 2024.3, Google | [project](https://blog.google/technology/developers/gemma-open-models/)
 - [Minicpm: Unveiling the potential of small language models with scalable training strategies](https://arxiv.org/pdf/2404.06395), CoLM, 2024, OpenBMB. | [blog](https://openbmb.vercel.app/?category=Blog), [code](https://github.com/OpenBMB/MiniCPM)
+- [MiniCPM-V: A GPT-4V Level MLLM on Your Phone](https://arxiv.org/pdf/2408.01800), ArXiv, 2024, OpenBMB. | [code](https://github.com/OpenBMB/MiniCPM-V)
  </details>
  
 
@@ -313,6 +321,8 @@ This repo collects papers and repositories about agent. Especially, we focus on 
 - [Awesome LLM Powered Agent](https://github.com/hyp1231/awesome-llm-powered-agent)
 - [Awesome AI Agents](https://github.com/Jenqyang/Awesome-AI-Agents)
 - [Embodied_AI_Paper_List](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List)
+- [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
+- [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
 
 ### Tutorial
 
