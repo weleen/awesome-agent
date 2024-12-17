@@ -65,6 +65,8 @@ This repo collects papers and repositories about agent. Especially, we focus on 
 
 <details><summary>2024</summary>
 
+- [Grounding Large Language Models in Interactive Environments with Online Reinforcement Learning](https://arxiv.org/pdf/2302.02662), ICML, 2024, Inria. | [code](https://*github*.com/flowersteam/Grounding_LLMs_with_online_RL)
+- [True Knowledge Comes from Practice: Aligning LLMs with Embodied Environments via Reinforcement Learning](https://arxiv.org/abs/2401.14151), ICLR2024, NTU. | [code](https://github.com/WeihaoTan/TWOSOME)
 - [Stein Variational Ergodic Search](/2024/program/papers/1/), RSS, 2024
 - [Parallel and Proximal Linear-Quadratic Methods for Real-Time Constrained Model-Predictive Control](/2024/program/papers/2/), RSS, 2024
 - [Differentiable Robust Model Predictive Control](/2024/program/papers/3/), RSS, 2024
@@ -323,6 +325,7 @@ This repo collects papers and repositories about agent. Especially, we focus on 
 - [Embodied_AI_Paper_List](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List)
 - [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
 - [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
+- [diffusion-literature-for-robotics](https://github.com/mbreuss/diffusion-literature-for-robotics)
 
 ### Tutorial
 
