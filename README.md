@@ -1,4 +1,4 @@
-# Awesome Agent
+# Awesome Agent-
 
 <!-- badge link https://github.com/badges/awesome-badges -->
 <!-- [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) -->
@@ -20,7 +20,7 @@ This repo collects papers and repositories about agent. Especially, we focus on 
 
 ## Table of Contents
 
-- [Awesome Agent](#awesome-agent)
+- [Awesome Agent-](#awesome-agent-)
   - [TODO](#todo)
   - [Table of Contents](#table-of-contents)
     - [Foundation Model (LLM, VLM, etc.)](#foundation-model-llm-vlm-etc)
@@ -65,6 +65,8 @@ This repo collects papers and repositories about agent. Especially, we focus on 
 
 <details><summary>2024</summary>
 
+- [AgiBot World](https://agibot-world.com/), Zhiyuan Robot | [dataset](https://huggingface.co/agibot-world), [code](https://github.com/OpenDriveLab/AgiBot-World)
+- [Genesis: A Generative and Universal Physics Engine for Robotics and Beyond](https://genesis-embodied-ai.github.io/), ArXiv, 2024. | [code](https://github.com/Genesis-Embodied-AI/Genesis), [project](https://genesis-embodied-ai.github.io/)
 - [Grounding Large Language Models in Interactive Environments with Online Reinforcement Learning](https://arxiv.org/pdf/2302.02662), ICML, 2024, Inria. | [code](https://*github*.com/flowersteam/Grounding_LLMs_with_online_RL)
 - [True Knowledge Comes from Practice: Aligning LLMs with Embodied Environments via Reinforcement Learning](https://arxiv.org/abs/2401.14151), ICLR2024, NTU. | [code](https://github.com/WeihaoTan/TWOSOME)
 - [Stein Variational Ergodic Search](/2024/program/papers/1/), RSS, 2024
@@ -253,6 +255,7 @@ This repo collects papers and repositories about agent. Especially, we focus on 
 
 <details><summary>2024</summary>
 
+- [WiS Platform: Enhancing Evaluation of LLM-Based Multi-Agent Systems Through Game-Based Analysis](https://arxiv.org/pdf/2412.03359), ArXiv, 2024.12, Alibaba. | [project](https://whoisspy.ai/), [code]()
 - [Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks](https://arxiv.org/pdf/2411.04468), ArXiv, 2024, Microsoft. | [blog](https://aka.ms/magentic-one-blog), [code](https://github.com/microsoft/autogen/tree/main/python/packages/autogen-magentic-one)
 - [SMoA: Improving Multi-agent Large Language Models with Sparse Mixture-of-Agents](https://github.com/David-Li0406/SMoA), ASU & MSU & KAUST & UT Austin. | [code](https://github.com/David-Li0406/SMoA)
 - [Mixture-of-Agents Enhances Large Language Model Capabilities](https://arxiv.org/pdf/2406.04692), ArXiv, 2024. 6, Together AI. | [code](https://github.com/togethercomputer/moa)
@@ -294,7 +297,7 @@ This repo collects papers and repositories about agent. Especially, we focus on 
 
 <details><summary>2021</summary>
 
-- [3D-FRONT: 3D Furnished Rooms with layOuts and semaNTics](https://openaccess.thecvf.com/content/ICCV2021/papers/Fu_3D-FRONT_3D_Furnished_Rooms_With_layOuts_and_semaNTics_ICCV_2021_paper.pdf), ICCV, 2021, Alibaba & CAS & SFU. | [project](https://tianchi.aliyun.com/specials/promotion/alibaba-3d-scene-dataset), []
+- [3D-FRONT: 3D Furnished Rooms with layOuts and semaNTics](https://openaccess.thecvf.com/content/ICCV2021/papers/Fu_3D-FRONT_3D_Furnished_Rooms_With_layOuts_and_semaNTics_ICCV_2021_paper.pdf), ICCV, 2021, Alibaba & CAS & SFU. | [project](https://tianchi.aliyun.com/specials/promotion/alibaba-3d-scene-dataset), [code](https://github.com/droid-dataset/droid_policy_learning)
 - [Multi Agent Reinforcement Learning of 3D Furniture Layout Simulation in Indoor Graphics Scenes](https://arxiv.org/pdf/2102.09137), ICLR SimDL Workshop, 2021, Longfor & IBM. | [code(partial)](https://github.com/CODE-SUBMIT/simulator2)
 </details>
 
@@ -307,6 +310,7 @@ This repo collects papers and repositories about agent. Especially, we focus on 
 ### Robotics
 
 <!-- summarization: https://www.xiaohongshu.com/explore/6749e8180000000002039d5c?xsec_token=AB6HX5PMGw8lloV2aCTzOkguQIsjy9kG3eX7TsZV9zwew=&xsec_source=pc_collect -->
+- [DROID: A Large-Scale In-the-Wild Robot Manipulation Dataset](https://arxiv.org/abs/2403.12945), ArXiv, 2024.3, DROID Dataset Team | [project](https://droid-dataset.github.io/)
 - [RLBench](https://arxiv.org/abs/1909.12271), RA-L, 2020, ICL | [project](https://sites.google.com/view/rlbench), [code]((https://github.com/stepjam/RLBench))
 - [CALVIN](https://arxiv.org/pdf/2112.03227.pdf), RA-L, 2022,University of Freiburg | [project](http://calvin.cs.uni-freiburg.de/), [code]((https://github.com/mees/calvin))
 - [ManiSkill 1&2&3](https://arxiv.org/abs/2302.04659), ICLR, 2023, UCSD | [project](https://maniskill2.github.io/), [code](https://github.com/haosulab/ManiSkill)
