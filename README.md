@@ -1,4 +1,4 @@
-# Awesome Agent-
+# Awesome Agent
 
 <!-- badge link https://github.com/badges/awesome-badges -->
 <!-- [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) -->
@@ -20,7 +20,7 @@ This repo collects papers and repositories about agent. Especially, we focus on 
 
 ## Table of Contents
 
-- [Awesome Agent-](#awesome-agent-)
+- [Awesome Agent](#awesome-agent)
   - [TODO](#todo)
   - [Table of Contents](#table-of-contents)
     - [Foundation Model (LLM, VLM, etc.)](#foundation-model-llm-vlm-etc)
@@ -250,6 +250,11 @@ This repo collects papers and repositories about agent. Especially, we focus on 
 <!-- ### Search Engine -->
 
 ### Scientific Discovery
+
+<details><summary>2024</summary>
+
+- [Agent Laboratory: Using LLM Agents as Research Assistants](https://huggingface.co/papers/2501.04227), ArXiv, 2025.1, AMD & JHU | [project](https://agentlaboratory.github.io/), [code](https://github.com/SamuelSchmidgall/AgentLaboratory)
+</details>
 
 ### Multi-Agent
 
