@@ -45,6 +45,8 @@ This repo collects papers and repositories about agent. Especially, we focus on 
 
 <details><summary>2024</summary>
 
+- [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf), Preprint, 2025.1, DeepSeek | [code](https://github.com/deepseek-ai/DeepSeek-R1)
+- [DeepSeek-V3 Technical Report](https://github.com/deepseek-ai/DeepSeek-V3/blob/main/DeepSeek_V3.pdf), Preprint, 2024.12, DeepSeek | [code](https://github.com/deepseek-ai/DeepSeek-V3)
 - [LLaVA-OneVision: Easy Visual Task Transfer](https://arxiv.org/pdf/2408.03326), ArXiv, 2024.8, NTU & Bytedance | [project](https://llava-vl.github.io/blog/2024-08-05-llava-onevision), [code](https://github.com/LLaVA-VL/LLaVA-NeXT)
 - [VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation](https://arxiv.org/pdf/2409.04429), ArXiv, 2024.9, THU & MIT & NVIDIA & UCB & UCSD. | [project](https://hanlab.mit.edu/projects/vila-u), [code](https://github.com/mit-han-lab/vila-u)
 - [Qwen2 & QwQ: Reflect Deeply on the Boundaries of the Unknown](https://arxiv.org/abs/2407.10671), ArXiv, 2024.7 & 2024.11, Qwen Team at Alibaba | [model](https://huggingface.co/Qwen/QwQ-32B-Preview), [project](https://huggingface.co/Qwen), [blog](https://qwenlm.github.io/blog/qwq-32b-preview/)
@@ -344,14 +346,18 @@ This repo collects papers and repositories about agent. Especially, we focus on 
 
 - [OpenAI](https://www.openai.com)
 - [OpenBMB](https://github.com/OpenBMB)
+- [DeepSeek](https://www.deepseek.com/)
+- 
 
 ### Frameworks
 
 #### Foundation Models
 
-- [Qwen Series](https://qwenlm.github.io/)
 - [Llama Series](https://www.llama.com/)
 - [Gemma Series](https://ai.google.dev/gemma)
+- [Qwen Series](https://qwenlm.github.io/)
+- [DeepSeek Series](https://www.deepseek.com/)
+- [MiniMax Series](https://www.minimaxi.com/)
 
 
 #### Multi-Agent
