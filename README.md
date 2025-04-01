@@ -14,9 +14,9 @@ This repo collects papers and repositories about agent. Especially, we focus on 
 
 ## TODO
 
-- [ ] Update CoRL2024 papers.
-- [ ] Update IROS2024 papers.
-- [ ] Update ICRA2024 papers.
+- [x] Update CoRL2024 papers.
+- [x] Update IROS2024 papers.
+- [x] Update ICRA2024 papers.
 
 ## Table of Contents
 
@@ -67,6 +67,9 @@ This repo collects papers and repositories about agent. Especially, we focus on 
 
 Collections:
 - [RSS2024](./RSS2024_Papers.md)
+- [CoRL2024](./CoRL2024_Papers.md)
+- [ICRA2024](./ICRA2024_Papers.md)
+- [IROS2024](./IROS2024_Papers.md)
 
 <details><summary>2024</summary>
 
@@ -112,12 +115,12 @@ Collections:
 - [HULC++: Grounding Language with Visual Affordances over Unstructured Data](https://arxiv.org/pdf/2210.01911.pdf), ICRA, 2023, University of Freiburg | [project](http://hulc2.cs.uni-freiburg.de/), [code](https://github.com/mees/hulc2)
 - [Learning Universal Policies via Text-Guided Video Generation](https://arxiv.org/pdf/2302.00111.pdf), NeurIPS, 2023, MIT & Google Brain | [project](https://universal-policy.github.io/unipi/), [unofficial code](https://github.com/flow-diffusion/AVDC)
 - [Learning to Act from Actionless Videos through Dense Correspondences](https://arxiv.org/abs/2310.08576), ArXiv, 2023, National Taiwan University | [project](https://flow-diffusion.github.io/), [code](https://github.com/flow-diffusion/AVDC)
+- [RT-1: Robotics Transformer for Real-World Control at Scale](https://arxiv.org/abs/2212.06817), RSS, 2023, Google Robotics | [code](https://github.com/google-research/robotics_transformer), [project](https://robotics-transformer1.github.io/)
 </details>
 
 <details><summary>2022</summary>
 
 - [Do As I Can, Not As I Say: Grounding Language in Robotic Affordances](https://say-can.github.io/assets/palm_saycan.pdf), CoRL, 2022, Google Robotics | [code](https://github.com/google-research/google-research/tree/master/saycan), [project](https://say-can.github.io/)
-- [RT-1: Robotics Transformer for Real-World Control at Scale](https://arxiv.org/abs/2212.06817), ArXiv, 2022, Google Robotics | [code](https://github.com/google-research/robotics_transformer), [project](https://robotics-transformer1.github.io/)
 </details>
 
 <!-- ### Search Engine -->
@@ -130,6 +133,12 @@ Collections:
 </details>
 
 ### Multi-Agent
+
+<details><summary>2025</summary>
+
+- [MCP](https://www.anthropic.com/news/model-context-protocol) | [code](https://github.com/modelcontextprotocol)
+
+</details>
 
 <details><summary>2024</summary>
 
@@ -161,6 +170,7 @@ Collections:
 
 <details><summary>Before 2020</summary>
 
+- [On the Control of Multi-Agent Systems: A Survey](http://www.nowpublishers.com/article/Details/SYS-019), Foundations and Trends©R in Systems and Control, 2019, Northeastern University China.
 - [A actor-based architecture for customizing and controlling agent ensembles](https://agents.usask.ca/Papers/jamali-thati-agha-intelsys99.pdf), IEEE Intelligent Systems and their Applications, 1999, UIUC.
 - [KQML as an agent communication language](https://dl.acm.org/doi/pdf/10.1145/191246.191322), CIKM, 1994.
 </details>
@@ -218,6 +228,7 @@ Collections:
 - [OpenAI](https://www.openai.com)
 - [OpenBMB](https://github.com/OpenBMB)
 - [DeepSeek](https://www.deepseek.com/)
+- [Huggingface LeRobot](https://huggingface.co/lerobot)
 
 ### Frameworks
 
@@ -233,6 +244,7 @@ Collections:
 #### Multi-Agent
 
 <!-- comparison: https://www.helicone.ai/blog/ai-agent-builders -->
+- [MCP](https://modelcontextprotocol.io/introduction) | [中译版](https://mcplab.cc/zh/docs/getstarted)
 - [openr](https://github.com/openreasoner/openr/)
 - [swarm](https://github.com/openai/swarm)
 - [autogen](https://github.com/microsoft/autogen)
