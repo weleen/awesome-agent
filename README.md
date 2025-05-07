@@ -12,16 +12,9 @@ This repo collects papers and repositories about agent. Especially, we focus on 
 [Paper Title](paper link), Conference/Journal, Year, Team | [code](code link), [project](project link)
 ```
 
-## TODO
-
-- [x] Update CoRL2024 papers.
-- [x] Update IROS2024 papers.
-- [x] Update ICRA2024 papers.
-
 ## Table of Contents
 
 - [Awesome Agent](#awesome-agent)
-  - [TODO](#todo)
   - [Table of Contents](#table-of-contents)
     - [Foundation Model (LLM, VLM, etc.)](#foundation-model-llm-vlm-etc)
     - [Robotics](#robotics)
@@ -43,9 +36,15 @@ This repo collects papers and repositories about agent. Especially, we focus on 
 
 ### Foundation Model (LLM, VLM, etc.)
 
+<details><summary>2025</summary>
+
+- [R1-V: Reinforcing Super Generalization Ability in Vision Language Models with Less Than $3](https://deepagent.notion.site/rlvr-in-vlms), Blog, 2025.2 | [code](https://github.com/Deep-Agent/R1-V)
+- [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf), Preprint, 2025.1, DeepSeek | [code](https://github.com/deepseek-ai/DeepSeek-R1)
+
+</details>
+
 <details><summary>2024</summary>
 
-- [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf), Preprint, 2025.1, DeepSeek | [code](https://github.com/deepseek-ai/DeepSeek-R1)
 - [DeepSeek-V3 Technical Report](https://github.com/deepseek-ai/DeepSeek-V3/blob/main/DeepSeek_V3.pdf), Preprint, 2024.12, DeepSeek | [code](https://github.com/deepseek-ai/DeepSeek-V3)
 - [LLaVA-OneVision: Easy Visual Task Transfer](https://arxiv.org/pdf/2408.03326), ArXiv, 2024.8, NTU & Bytedance | [project](https://llava-vl.github.io/blog/2024-08-05-llava-onevision), [code](https://github.com/LLaVA-VL/LLaVA-NeXT)
 - [VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation](https://arxiv.org/pdf/2409.04429), ArXiv, 2024.9, THU & MIT & NVIDIA & UCB & UCSD. | [project](https://hanlab.mit.edu/projects/vila-u), [code](https://github.com/mit-han-lab/vila-u)
@@ -65,11 +64,20 @@ This repo collects papers and repositories about agent. Especially, we focus on 
 
 ### Robotics
 
-Collections:
+<details><summary>Conference Collections</summary>
+
 - [RSS2024](./RSS2024_Papers.md)
 - [CoRL2024](./CoRL2024_Papers.md)
 - [ICRA2024](./ICRA2024_Papers.md)
 - [IROS2024](./IROS2024_Papers.md)
+</details>
+
+
+<details><summary>2025</summary>
+
+- [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf), Preprint, 2025.1, DeepSeek | [code](https://github.com/deepseek-ai/DeepSeek-R1)
+
+</details>
 
 <details><summary>2024</summary>
 
