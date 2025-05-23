@@ -38,6 +38,8 @@ This repo collects papers and repositories about agent. Especially, we focus on 
 
 <details><summary>2025</summary>
 
+- [The Second Half](https://ysymyth.github.io/The-Second-Half/), Blog, 2025.4, Shunyu Yao
+- [Why We Think](https://lilianweng.github.io/posts/2025-05-01-thinking/), Blog, 2025.5, Lilian Weng
 - [R1-V: Reinforcing Super Generalization Ability in Vision Language Models with Less Than $3](https://deepagent.notion.site/rlvr-in-vlms), Blog, 2025.2 | [code](https://github.com/Deep-Agent/R1-V)
 - [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf), Preprint, 2025.1, DeepSeek | [code](https://github.com/deepseek-ai/DeepSeek-R1)
 
@@ -66,6 +68,7 @@ This repo collects papers and repositories about agent. Especially, we focus on 
 
 <details><summary>Conference Collections</summary>
 
+- [RSS2025](./RSS2025_Papers.md)
 - [RSS2024](./RSS2024_Papers.md)
 - [CoRL2024](./CoRL2024_Papers.md)
 - [ICRA2024](./ICRA2024_Papers.md)
@@ -145,21 +148,22 @@ This repo collects papers and repositories about agent. Especially, we focus on 
 <details><summary>2025</summary>
 
 - [MCP](https://www.anthropic.com/news/model-context-protocol) | [code](https://github.com/modelcontextprotocol)
+- [Do as We Do, Not as You Think: the Conformity of Large Language Models](https://arxiv.org/abs/2410.12428), ICLR, 2025, ZJU | [code](https://github.com/Zhiyuan-Weng/BenchForm)
 
 </details>
 
 <details><summary>2024</summary>
 
-- [WiS Platform: Enhancing Evaluation of LLM-Based Multi-Agent Systems Through Game-Based Analysis](https://arxiv.org/pdf/2412.03359), ArXiv, 2024.12, Alibaba. | [project](https://whoisspy.ai/), [code]()
+- [WiS Platform: Enhancing Evaluation of LLM-Based Multi-Agent Systems Through Game-Based Analysis](https://arxiv.org/pdf/2412.03359), ArXiv, 2024.12, Alibaba. | [project](https://whoisspy.ai/)
 - [Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks](https://arxiv.org/pdf/2411.04468), ArXiv, 2024, Microsoft. | [blog](https://aka.ms/magentic-one-blog), [code](https://github.com/microsoft/autogen/tree/main/python/packages/autogen-magentic-one)
-- [SMoA: Improving Multi-agent Large Language Models with Sparse Mixture-of-Agents](https://github.com/David-Li0406/SMoA), ASU & MSU & KAUST & UT Austin. | [code](https://github.com/David-Li0406/SMoA)
+- [SMoA: Improving Multi-agent Large Language Models with Sparse Mixture-of-Agents](https://github.com/David-Li0406/SMoA), ArXiv, 2024, ASU & MSU & KAUST & UT Austin. | [code](https://github.com/David-Li0406/SMoA)
 - [Mixture-of-Agents Enhances Large Language Model Capabilities](https://arxiv.org/pdf/2406.04692), ArXiv, 2024. 6, Together AI. | [code](https://github.com/togethercomputer/moa)
 - [AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors](https://openreview.net/pdf?id=EHg5GDnyq1), ICLR, 2024. THU & BUPT & Tecent | [code](https://github.com/OpenBMB/AgentVerse)
 - [Metagpt: Meta programming for multi-agent collaborative framework](https://openreview.net/forum?id=VtmBAGCN7o), ICLR, 2024. DeepWisdom & KAUST & XMU & CUHKSZ & NJU & UoPenn & UCB | [code](https://github.com/geekan/MetaGPT)
 - [ChatDev: Communicative Agents for Software Development](https://aclanthology.org/2024.acl-long.810), ACL, 2024. THU & BUPT & DUT etc. | [code](https://github.com/OpenBMB/ChatDev)
 - [Cybench: A Framework for Evaluating Cybersecurity Capabilities and Risk of Language Models](https://arxiv.org/abs/2408.08926), ArXiv, 2024.8 | [project](https://cybench.github.io), [code](https://github.com/andyzorigin/cybench)
 - [Spider 2.0: Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows](https://arxiv.org/abs/2411.07763), ArXiv, 2024.11, HKU & Salesforce & Google Deepmind etc. | [project](https://spider2-sql.github.io/), [code](https://github.com/xlang-ai/Spider2)
-- [Do as We Do, Not as You Think: the Conformity of Large Language Models](https://arxiv.org/abs/2410.12428), ArXiv, 2024.10, Cambridge | [project]()
+- [Conformity in Large Language Models](https://arxiv.org/abs/2410.12428), ArXiv, 2024.10, Cambridge
 - [Internet of Agents: Weaving a Web of Heterogeneous Agents for Collaborative Intelligence](https://arxiv.org/abs/2407.07061), ArXiv, 2024.7, THU & PKU & BUPT & Tencent | [project](https://openbmb.github.io/IoA/), [code](https://github.com/OpenBMB/IoA)
 </details>
 
