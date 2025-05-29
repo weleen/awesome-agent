@@ -75,7 +75,7 @@ This repo collects papers and repositories about agent. Especially, we focus on 
 - [IROS2024](./IROS2024_Papers.md)
 </details>
 
-
+****
 <details><summary>2025</summary>
 
 - [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf), Preprint, 2025.1, DeepSeek | [code](https://github.com/deepseek-ai/DeepSeek-R1)
