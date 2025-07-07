@@ -38,8 +38,6 @@ This repo collects papers and repositories about agent. Especially, we focus on 
 
 <details><summary>2025</summary>
 
-- [The Second Half](https://ysymyth.github.io/The-Second-Half/), Blog, 2025.4, Shunyu Yao
-- [Why We Think](https://lilianweng.github.io/posts/2025-05-01-thinking/), Blog, 2025.5, Lilian Weng
 - [R1-V: Reinforcing Super Generalization Ability in Vision Language Models with Less Than $3](https://deepagent.notion.site/rlvr-in-vlms), Blog, 2025.2 | [code](https://github.com/Deep-Agent/R1-V)
 - [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf), Preprint, 2025.1, DeepSeek | [code](https://github.com/deepseek-ai/DeepSeek-R1)
 
@@ -75,10 +73,7 @@ This repo collects papers and repositories about agent. Especially, we focus on 
 - [IROS2024](./IROS2024_Papers.md)
 </details>
 
-****
 <details><summary>2025</summary>
-
-- [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf), Preprint, 2025.1, DeepSeek | [code](https://github.com/deepseek-ai/DeepSeek-R1)
 
 </details>
 
@@ -86,7 +81,7 @@ This repo collects papers and repositories about agent. Especially, we focus on 
 
 - [AgiBot World](https://agibot-world.com/), Zhiyuan Robot | [dataset](https://huggingface.co/agibot-world), [code](https://github.com/OpenDriveLab/AgiBot-World)
 - [Genesis: A Generative and Universal Physics Engine for Robotics and Beyond](https://genesis-embodied-ai.github.io/), ArXiv, 2024. | [code](https://github.com/Genesis-Embodied-AI/Genesis), [project](https://genesis-embodied-ai.github.io/)
-- [Grounding Large Language Models in Interactive Environments with Online Reinforcement Learning](https://arxiv.org/pdf/2302.02662), ICML, 2024, Inria. | [code](https://*github*.com/flowersteam/Grounding_LLMs_with_online_RL)
+- [Grounding Large Language Models in Interactive Environments with Online Reinforcement Learning](https://arxiv.org/pdf/2302.02662), ICML, 2024, Inria. | [code](https://github.com/flowersteam/Grounding_LLMs_with_online_RL)
 - [True Knowledge Comes from Practice: Aligning LLMs with Embodied Environments via Reinforcement Learning](https://arxiv.org/abs/2401.14151), ICLR2024, NTU. | [code](https://github.com/WeihaoTan/TWOSOME)
 - [Octopi: Object Property Reasoning with Large Tactile-Language Models](https://roboticsconference.org/2024/program/papers/66/), RSS, 2024
 - [3D Diffusion Policy: Generalizable Visuomotor Policy Learning via Simple 3D Representations](https://roboticsconference.org/2024/program/papers/67/), RSS, 2024
@@ -170,7 +165,7 @@ This repo collects papers and repositories about agent. Especially, we focus on 
 <details><summary>2023</summary>
 
 - [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation](https://arxiv.org/pdf/2308.08155), ArXiv, 2023. MS & PSU & UoW | [code](https://github.com/microsoft/autogen)
-- [CAMEL: Communicative Agents for “Mind” Exploration of Large Language Model Society](https://proceedings.neurips.cc/paper_files/paper/2023/file/a3621ee907def47c1b952ade25c67698-Paper-Conference.pdf), NeurIPS, 2023, KAUST. | [project](https://www.camel-ai.org/), [code](https://github.com/camel-ai/camel)
+- [CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society](https://proceedings.neurips.cc/paper_files/paper/2023/file/a3621ee907def47c1b952ade25c67698-Paper-Conference.pdf), NeurIPS, 2023, KAUST. | [project](https://www.camel-ai.org/), [code](https://github.com/camel-ai/camel)
 </details>
 
 <details><summary>2022</summary>
@@ -189,6 +184,10 @@ This repo collects papers and repositories about agent. Especially, we focus on 
 
 ### Others
 
+<details><summary>2025</summary>
+
+- [Think Twice, Act Once:  A Co-Evolution Framework of LLM and RL for Large-Scale Decision Making](https://arxiv.org/pdf/2506.02522), ICML, 2025, ZJU & PKU.
+</details>
 
 <details><summary>2024</summary>
 
@@ -211,8 +210,8 @@ This repo collects papers and repositories about agent. Especially, we focus on 
 
 <!-- summarization: https://www.xiaohongshu.com/explore/6749e8180000000002039d5c?xsec_token=AB6HX5PMGw8lloV2aCTzOkguQIsjy9kG3eX7TsZV9zwew=&xsec_source=pc_collect -->
 - [DROID: A Large-Scale In-the-Wild Robot Manipulation Dataset](https://arxiv.org/abs/2403.12945), ArXiv, 2024.3, DROID Dataset Team | [project](https://droid-dataset.github.io/)
-- [RLBench](https://arxiv.org/abs/1909.12271), RA-L, 2020, ICL | [project](https://sites.google.com/view/rlbench), [code]((https://github.com/stepjam/RLBench))
-- [CALVIN](https://arxiv.org/pdf/2112.03227.pdf), RA-L, 2022,University of Freiburg | [project](http://calvin.cs.uni-freiburg.de/), [code]((https://github.com/mees/calvin))
+- [RLBench](https://arxiv.org/abs/1909.12271), RA-L, 2020, ICL | [project](https://sites.google.com/view/rlbench), [code](https://github.com/stepjam/RLBench)
+- [CALVIN](https://arxiv.org/pdf/2112.03227.pdf), RA-L, 2022,University of Freiburg | [project](http://calvin.cs.uni-freiburg.de/), [code](https://github.com/**mees**/calvin)
 - [ManiSkill 1&2&3](https://arxiv.org/abs/2302.04659), ICLR, 2023, UCSD | [project](https://maniskill2.github.io/), [code](https://github.com/haosulab/ManiSkill)
 
 
@@ -233,7 +232,12 @@ This repo collects papers and repositories about agent. Especially, we focus on 
 
 ### Tutorial
 
-- [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)
+- [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/), Blog, 2023.6, Lilian Weng
+- [The Second Half](https://ysymyth.github.io/The-Second-Half/), Blog, 2025.4, Shunyu Yao
+- [Why We Think](https://lilianweng.github.io/posts/2025-05-01-thinking/), Blog, 2025.5, Lilian Weng
+- [CMU 16-782 Planning and Decision-making in Robotics](https://www.cs.cmu.edu/~maxim/classes/robotplanning_grad/), 2024
+- [AI4OPT Seminar Series: On the Foundations of Interactive Decision Making and Reinforcement Learning](https://www.youtube.com/watch?v=5QEFXuncyAM), 2023
+- [Cornell CS6756 Learning for Robot Decision Making](https://www.cs.cornell.edu/courses/cs6756/2023fa/), 2023
 
 ### Group
 
@@ -241,6 +245,7 @@ This repo collects papers and repositories about agent. Especially, we focus on 
 - [OpenBMB](https://github.com/OpenBMB)
 - [DeepSeek](https://www.deepseek.com/)
 - [Huggingface LeRobot](https://huggingface.co/lerobot)
+- [Physical Intelligence](https://www.physicalintelligence.company/)
 
 ### Frameworks
 
@@ -251,7 +256,8 @@ This repo collects papers and repositories about agent. Especially, we focus on 
 - [Qwen Series](https://qwenlm.github.io/)
 - [DeepSeek Series](https://www.deepseek.com/)
 - [MiniMax Series](https://www.minimaxi.com/)
-
+- [Mistral Series](https://mistral.ai/)
+- [Cosmos Series](https://github.com/nvidia-cosmos)
 
 #### Multi-Agent
 
@@ -273,7 +279,8 @@ This repo collects papers and repositories about agent. Especially, we focus on 
 
 ### Links
 
-- [RSS2024 Papers](https://roboticsconference.org/2024/program/papers/)
+- [RSS2024](https://roboticsconference.org/2024/program/papers/)
+- [RSS2025](https://roboticsconference.org/program/papers/)
 - [Papercopilot](https://papercopilot.com/statistics/#robotics)
 
 
