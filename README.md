@@ -67,11 +67,11 @@ This repo collects papers and repositories about agent. Especially, we focus on 
 
 <details><summary>Conference Collections</summary>
 
-- [RSS2025](./RSS2025_Papers.md)
-- [RSS2024](./RSS2024_Papers.md)
-- [CoRL2024](./CoRL2024_Papers.md)
-- [ICRA2024](./ICRA2024_Papers.md)
-- [IROS2024](./IROS2024_Papers.md)
+- [RSS2025](./paper_scrapper/RSS2025_Papers.md)
+- [RSS2024](./paper_scrapper/RSS2024_Papers.md)
+- [CoRL2024](./paper_scrapper/CoRL2024_Papers.md)
+- [ICRA2024](./paper_scrapper/ICRA2024_Papers.md)
+- [IROS2024](./paper_scrapper/IROS2024_Papers.md)
 </details>
 
 <details><summary>2025</summary>
