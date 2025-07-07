@@ -20,6 +20,7 @@ This repo collects papers and repositories about agent. Especially, we focus on 
     - [Robotics](#robotics)
     - [Scientific Discovery](#scientific-discovery)
     - [Multi-Agent](#multi-agent)
+    - [Decision-Making](#decision-making)
     - [Others](#others)
   - [Datasets and Benchmarks](#datasets-and-benchmarks)
     - [General AI Agent](#general-ai-agent)
@@ -182,12 +183,15 @@ This repo collects papers and repositories about agent. Especially, we focus on 
 - [KQML as an agent communication language](https://dl.acm.org/doi/pdf/10.1145/191246.191322), CIKM, 1994.
 </details>
 
-### Others
+### Decision-Making
 
 <details><summary>2025</summary>
 
 - [Think Twice, Act Once:  A Co-Evolution Framework of LLM and RL for Large-Scale Decision Making](https://arxiv.org/pdf/2506.02522), ICML, 2025, ZJU & PKU.
+
 </details>
+
+### Others
 
 <details><summary>2024</summary>
 
