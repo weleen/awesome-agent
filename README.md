@@ -27,7 +27,7 @@ This repo collects papers and repositories about agent. Especially, we focus on 
     - [Robotics](#robotics-1)
   - [Other Resources](#other-resources)
     - [Github Collections](#github-collections)
-    - [Tutorial](#tutorial)
+    - [Tutorial \& Course \& Blog](#tutorial--course--blog)
     - [Group](#group)
     - [Frameworks](#frameworks)
       - [Foundation Models](#foundation-models)
@@ -234,14 +234,16 @@ This repo collects papers and repositories about agent. Especially, we focus on 
 - [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
 - [diffusion-literature-for-robotics](https://github.com/mbreuss/diffusion-literature-for-robotics)
 
-### Tutorial
+### Tutorial & Course & Blog
 
 - [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/), Blog, 2023.6, Lilian Weng
 - [The Second Half](https://ysymyth.github.io/The-Second-Half/), Blog, 2025.4, Shunyu Yao
 - [Why We Think](https://lilianweng.github.io/posts/2025-05-01-thinking/), Blog, 2025.5, Lilian Weng
-- [CMU 16-782 Planning and Decision-making in Robotics](https://www.cs.cmu.edu/~maxim/classes/robotplanning_grad/), 2024
-- [AI4OPT Seminar Series: On the Foundations of Interactive Decision Making and Reinforcement Learning](https://www.youtube.com/watch?v=5QEFXuncyAM), 2023
-- [Cornell CS6756 Learning for Robot Decision Making](https://www.cs.cornell.edu/courses/cs6756/2023fa/), 2023
+- [CMU 16-782 Planning and Decision-making in Robotics](https://www.cs.cmu.edu/~maxim/classes/robotplanning_grad/), [Notes](https://www.cs.cmu.edu/~maxim/classes/robotplanning_grad/robotplanninggrad_fall24_schedule_draft.pdf), 2024
+- [AI4OPT Seminar Series: On the Foundations of Interactive Decision Making and Reinforcement Learning](https://www.ai4opt.org/), [Video](https://www.youtube.com/watch?v=5QEFXuncyAM), 2023
+- [Cornell CS6756 Learning for Robot Decision Making](https://courses.cornell.edu/preview_course_nopop.php?catoid=60&coid=1103326), [Video](https://www.cs.cornell.edu/courses/cs6756/2023fa/), 2023
+- [NTU MLDS](), [Video](https://www.bilibili.com/video/BV124411S7au/?p=9&vd_source=87c65224aa426a8fd0a2dc81d9f88a65), [Slides](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html), [Notes](https://github.com/datawhalechina/easy-rl), 2018
+- [Intro to Reinforcement Learning](https://davidstarsilver.wordpress.com/teaching/), [Video](https://www.bilibili.com/video/BV1x54y1W7k7/?from=search&seid=5197252874896980350&vd_source=87c65224aa426a8fd0a2dc81d9f88a65), [Video(Chinese)](https://space.bilibili.com/511221970/lists/764099?type=series), [Notes](https://github.com/zhoubolei/introRL), [Notes(Chinese)](https://zhuanlan.zhihu.com/p/37690204), 2015
 
 ### Group
 
